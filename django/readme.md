@@ -9,3 +9,11 @@ python manage.py findstatic --verbosity 2 css/styles.css
 ```
 
 Por lo general esta en proyecto/app/static/css/style.css
+
+```
+proyecto
+└─── app
+     └─── static
+          └─── css
+               └─── style.css
+```
