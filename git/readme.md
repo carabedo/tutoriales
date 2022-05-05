@@ -1,7 +1,7 @@
 # Git! 
 
 ## Que es?
-<img src="https://slidetodoc.com/presentation_image_h/28ea0264010b9b8bab644b1ae501f743/image-24.jpg" width=400>
+<img src="https://slidetodoc.com/presentation_image_h/28ea0264010b9b8bab644b1ae501f743/image-24.jpg" width=600>
 ## Como lo uso?
 
 ### `git pull`
