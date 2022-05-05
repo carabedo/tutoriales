@@ -8,9 +8,9 @@
 
 ### `git add`
 
-### git commit
+### `git commit`
 
-### git push
+### `git push`
 
 
 ## Y GitHub?
