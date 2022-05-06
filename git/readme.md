@@ -27,6 +27,8 @@ git config --global user.name 'pepito'
 git config --global user.mail 'pepito@gmail.com'
 ```
 
+Todas las credenciales las maneja VSCODE, la primera vez que lo usas te redirecciona a github.com para que te loguees.
+
 ## GitHub Desktop
 
 Otra opcion es usar el programita de escritorio [Aca!](https://desktop.github.com/) que me permite mantener actualizados mis repositorios de una manera mas sencilla.
