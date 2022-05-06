@@ -1,5 +1,5 @@
 # !bash
-## Run multiple commands in one line with `;`, `&&` and `||` - Linux Tips
+## Run multiple commands in one line with `;`, `&&` and `||`
 
 1) Use `;`
 
