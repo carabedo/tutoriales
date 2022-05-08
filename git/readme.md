@@ -20,6 +20,10 @@ git reset –hard
 git clean -fxd
 ```
 
+### Resolviendo conflictos!
+
+[youtube](https://www.youtube.com/watch?v=JtIX3HJKwfo)
+
 ## Y GitHub?
 
 Nos creamos una cuenta
