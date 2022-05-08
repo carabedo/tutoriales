@@ -13,6 +13,12 @@
 
 ### `git push`
 
+### Como borro todos los cambios locales?
+
+```
+git reset –hard
+git clean -fxd
+```
 
 ## Y GitHub?
 
